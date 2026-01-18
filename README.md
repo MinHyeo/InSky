@@ -11,6 +11,7 @@
 ## 기술 스택
 - Unity 2022.3.6f1
 - Visaul Studio Code
+- Github Desktop
 - Figma
 
 ## 폴더구조
